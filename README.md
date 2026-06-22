@@ -61,5 +61,6 @@
 ---
 
 **Решение:** 
- 
+ <img width="919" height="264" alt="Снимок экрана от 2026-06-22 20-24-22" src="https://github.com/user-attachments/assets/56aa0b77-6572-4a2d-904a-8ff1e96ec51d" />
+
 
